@@ -1,0 +1,31 @@
+New log file opened at Wed May 18 16:01:32 EDT 2016 by 1493@Nicks-Mac-Pro.home
+Taking next connection to: 50886
+New client attempting to connect on port: 50887-50886
+  Address = /192.168.1.6:50886
+This client on port 50887 has uuid 268f8be1-cd0a-47b8-9ddf-90e1814b0475 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-268f8be1-cd0a-47b8-9ddf-90e1814b0475
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 50886
